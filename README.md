@@ -1,13 +1,9 @@
 # 💫 About Me:
 
 Hi there!<br><br>
-
 I build **full-stack products** at the intersection of **cloud infrastructure** and **applied AI/ML** — creating tools that feel **creative, intuitive, and reliable**.<br><br>
-
 This spring, I’m building **LumiPact** at **LumiarLabs**, a modern contracting tool for creating and managing agreements. I’m also working with **TekSafari** as we build **DevSafari**, a Duolingo-style, gamified learning journey to help new developers stop guessing what to learn next.<br><br>
-
 This summer, I’ll be interning at **Google Cloud (California)**, working on **Data Protection** and **Cloud Infrastructure**. I’m currently focused on sharpening my skills across **full-stack engineering**, **cloud systems**, and **AI/ML**, especially where **reliability**, **security**, and **great product UX** overlap.<br><br>
-
 ⚡ **Fun fact:** I once built a simple **Arduino wearable device** in under an hour for **Young Scientists Tanzania 2019**. It ended up winning **first place** in the national tech category because I focused on solving a real problem and communicating its impact clearly. That experience taught me that **creativity and clarity often beat complexity**.
 
 # 💻 Tech Stack:
