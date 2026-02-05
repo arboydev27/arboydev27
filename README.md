@@ -38,8 +38,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer currently interning at **Metron Analytics**, re-designing a live sports prediction platforms to a **serverless AWS** architecture. I focus on **Cloud infrastructure** work where **latency, reliability, and correctness** matter.
-I like building systems and products that are used to solve real world problems at scale. I'm particularly interested in **real-time data**, **serverless pipelines**, and **production constraints**.
+I'm a Software Engineer currently interning at **Metron Analytics**, re-designing a live sports prediction platforms to a **serverless AWS** architecture. I like building systems and products that are used to solve real world problems at scale. I'm particularly interested in **real-time data**, **serverless pipelines**, and **production constraints**.
 
 - 🔭 **Industry Job:** Software Engineering Intern at **Google** - Building the next generation of the rule creation engine in Google Admin Console with AI-driven workflows.
 - 🧠 **Core interests:** Software Engineering in Cloud Infrastructure, Backend systems, Developer Platform and, AI tooling.
