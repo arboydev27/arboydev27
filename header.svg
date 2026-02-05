@@ -1,5 +1,5 @@
-<svg fill="none" width="100%" height="140" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="140">
+<svg fill="none" viewBox="0 0 900 140" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="900" height="140">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .wrapper{
@@ -52,7 +52,7 @@
           0%   { content: "Hi, I'm Arboy Magomba 👋"; }
           20%  { content: "Full-stack Cloud/ Infra Engineer in the making"; }
           40%  { content: "I build fast, reliable, production-grade systems"; }
-          60%  { content: "Real-time pipelines | Local AI inference | Postgres"; }
+          60%  { content: "Real-time serveless pipelines | AI inference"; }
           80%  { content: "Welcome to my GitHub 🚀"; }
           100% { content: "Hi, I'm Arboy Magomba 👋"; }
         }
@@ -84,7 +84,7 @@
           0%   { --n: 25; }
           20%  { --n: 47; }
           40%  { --n: 49; }
-          60%  { --n: 52; }
+          60%  { --n: 44; }
           80%  { --n: 25; }
           100% { --n: 25; }
         }
