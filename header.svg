@@ -50,7 +50,7 @@
         /* Rotate text lines by updating content + length */
         @keyframes swap{
           0%   { content: "Hi, I'm Arboy Magomba 👋"; }
-          20%  { content: "Backend / Infra Engineer in the making"; }
+          20%  { content: "Full-stack Cloud/ Infra Engineer in the making"; }
           40%  { content: "I build fast, reliable, production-grade systems"; }
           60%  { content: "Real-time pipelines | Local AI inference | Postgres"; }
           80%  { content: "Welcome to my GitHub 🚀"; }
@@ -81,12 +81,12 @@
         }
 
         @keyframes lineLen{
-          0%   { --n: 22; }
-          20%  { --n: 36; }
-          40%  { --n: 44; }
-          60%  { --n: 44; }
-          80%  { --n: 20; }
-          100% { --n: 22; }
+          0%   { --n: 25; }
+          20%  { --n: 47; }
+          40%  { --n: 49; }
+          60%  { --n: 52; }
+          80%  { --n: 25; }
+          100% { --n: 25; }
         }
 
         /* Actually swap the displayed string */
