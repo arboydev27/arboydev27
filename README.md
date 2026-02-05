@@ -38,7 +38,7 @@
 
 ## 🚀 About Me
 
-I’m an **Incoming Software Engineering Intern at Google (Summer 2026)**, joining the **Data Loss Prevention (DLP)** team to help build the next generation of the **rule creation engine** in **Google Admin Console** with **AI-driven workflows**.
+I’m an **Incoming Software Engineering Intern at Google (Summer 2026)**, joining the **Data Protection** team to help build the next generation of the **rule creation engine** in **Google Admin Console** with **AI-driven workflows**.
 Right now (Spring 2026), I’m interning at **Metron Analytics**, redesigning a live sports prediction platform into a **serverless AWS** architecture.
 I love building systems and products that are used to solve real world problems at scale. I'm particularly interested in **real-time data**, **serverless pipelines**, and **production constraints**.
 
