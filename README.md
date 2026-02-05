@@ -36,7 +36,7 @@
 
 ## 🚀 About Me
 
-I'm a CS student at the **University of Oklahoma** and a Software Engineering Intern at **Metron Analytics**, currently re-architecting live sports prediction platforms to a **serverless AWS** architecture. I focus on **cloud infrastructure** work where **latency, reliability, and correctness** matter.
+I'm a CS student at the **University of Oklahoma** and a Software Engineering Intern at **Metron Analytics**, currently re-designing a live sports prediction platforms to a **serverless AWS** architecture. I focus on **cloud infrastructure** work where **latency, reliability, and correctness** matter.
 I like building systems and products that are used to solve real world problems at scale. I'm particularly interested in **real-time data**, **serverless pipelines**, and **production constraints**.
 
 - 🔭 **Currently:** Joining **Google** (Cloud Security team) to re-architect the rule creation engine in Google Admin Console with AI-driven workflows.
