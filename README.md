@@ -19,7 +19,7 @@
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/ArboyMagomba" target="_blank">
+  <a href="https://github.com/arboydev27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
