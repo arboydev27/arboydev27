@@ -1,4 +1,4 @@
-# Arboy Magomba | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="28" align="center" /> Software Engineering Intern
+<!-- # Arboy Magomba | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="28" align="center" /> Software Engineering Intern -->
 
 ![Header](./github-header-banner.png)
 
