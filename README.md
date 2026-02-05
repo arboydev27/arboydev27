@@ -1,4 +1,4 @@
-# Arboy Magomba | Software Engineer
+# Arboy Magomba | Software Engineering Intern <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="28" align="center" />
 
 <div align="center">
 
