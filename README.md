@@ -79,8 +79,6 @@ I like building systems and products that are used to solve real world problems 
 
 ## 🏆 Featured Projects
 
-### ⭐ Featured Projects
-
 | Project | Role | Stack | Key Achievements |
 | --- | --- | --- | --- |
 | **QuickNews.ai** | Full-Stack Developer | JavaScript, Next.js, AWS Lambda, API Gateway, CloudWatch, AWS Comprehend | Shipped a **Next.js** app with **serverless APIs** for news summaries and sentiment analysis. Used **Provisioned Concurrency** to cut median latency **~2.0s → ~200ms (10x)**. |
