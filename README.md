@@ -43,7 +43,6 @@ I like building systems and products that are used to solve real world problems 
 - 🧠 **Core interests:** backend systems, infra, performance engineering, AI tooling for developers
 - 🏗️ **I care about:** p95 latency, clean APIs, reliable storage, and shipping
 - 🧰 **Data layer lately:** PostgreSQL + **DynamoDB-based caching layer** (instead of Redis)
-- 📫 **Reach me:** `YOUR_EMAIL`
 
 ---
 
