@@ -43,7 +43,7 @@ I like building systems and products that are used to solve real world problems 
 - 🧠 **Core interests:** Software Engineering in Cloud Infrastructure, Backend systems, Developer Platform and, AI tooling.
 - 🎓 **Education:** BSc in Computer Science at the **University of Oklahoma**.
 - 🏗️ **I care about:** Performant and efficient System designs, end-to-end latency, clean API pipelines, and shipping
-- 🧰 **Data layer lately:** PostgreSQL + **DynamoDB-based caching layer** (instead of Redis)
+- 🧰 **Personal hobbies:** F1 Racing (everything racing), Go Karting, Video Games, and building cool stuff.
 
 ---
 
