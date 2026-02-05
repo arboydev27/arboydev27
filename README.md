@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Typing Header -->
-<img src="https://raw.githubusercontent.com/arboydev27/arboydev27/header.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/arboydev27/arboydev27/main/header.svg" width="100%" />
 
 <!-- Optional avatar / gif -->
 <!-- <img src="YOUR_GIF_OR_AVATAR_URL" width="120" style="border-radius: 50%;" /> -->
