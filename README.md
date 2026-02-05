@@ -38,9 +38,10 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer currently interning at **Metron Analytics**, re-designing a live sports prediction platforms to a **serverless AWS** architecture. I like building systems and products that are used to solve real world problems at scale. I'm particularly interested in **real-time data**, **serverless pipelines**, and **production constraints**.
+I’m an **Incoming Software Engineering Intern at Google (Summer 2026)**, joining the **Data Loss Prevention (DLP)** team to help build the next generation of the **rule creation engine** in **Google Admin Console** with **AI-driven workflows**.
+Right now (Spring 2026), I’m interning at **Metron Analytics**, redesigning a live sports prediction platform into a **serverless AWS** architecture.
+I love building systems and products that are used to solve real world problems at scale. I'm particularly interested in **real-time data**, **serverless pipelines**, and **production constraints**.
 
-- 🔭 **Industry Job:** Software Engineering Intern at **Google** - Building the next generation of the rule creation engine in Google Admin Console with AI-driven workflows.
 - 🧠 **Core interests:** Software Engineering in Cloud Infrastructure, Backend systems, Developer Platform and, AI tooling.
 - 🎓 **Education:** BSc in Computer Science at the **University of Oklahoma**.
 - 🏗️ **I care about:** Performant and efficient System designs, end-to-end latency, clean API pipelines, and shipping
