@@ -13,10 +13,10 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_SITE" target="_blank">
+  <!-- <a href="https://YOUR_PORTFOLIO_SITE" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  </a> -->
+  <a href="mailto:arboy@ou.edu">
     <img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/arboydev27" target="_blank">
@@ -116,7 +116,7 @@ I like building systems and products that are used to solve real world problems 
 If you're building **performance-critical systems**, **developer tools**, or **AI infrastructure**, I’m always down to talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arboy-magomba/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel)](https://YOUR_PORTFOLIO_SITE)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel)](https://YOUR_PORTFOLIO_SITE) -->
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:arboy@ou.edu)
 
 </div>
