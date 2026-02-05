@@ -36,8 +36,8 @@
 
 ## 🚀 About Me
 
-I'm a CS student at the **University of Oklahoma** focused on **backend + infrastructure** work where **latency, reliability, and correctness** matter.
-I like problems that involve **real-time data**, **streaming**, and **production constraints**.
+I'm a CS student at the **University of Oklahoma** focused on **cloud infrastructure** work where **latency, reliability, and correctness** matter.
+I like building systems and products that are used to solve real world problems at scale. I'm particularly interested in **real-time data**, **serverless pipelines**, and **production constraints**.
 
 - 🔭 **Currently:** Building real-time apps + AI workflows (local LLM inference, streaming responses, data pipelines)
 - 🧠 **Core interests:** backend systems, infra, performance engineering, AI tooling for developers
