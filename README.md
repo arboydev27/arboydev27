@@ -12,7 +12,7 @@
 
 <!-- Social badges -->
 <div style="margin: 18px 0;">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/arboy-magomba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <!-- <a href="https://YOUR_PORTFOLIO_SITE" target="_blank">
