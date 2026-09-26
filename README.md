@@ -38,7 +38,7 @@
 
 ## 🚀 About Me
 
-I’m **Software Engineer** and Computer Science student at the **University of Oklahoma**, returning to **Google** full-time in 2027. Most recently, I completed a **Software Engineering Internship at Google Cloud** (Summer 2026) on the **Data Protection** team, where I worked on enterprise data security UI modernization and telemetry pipelines for the **Google Admin Console**.
+I’m a **Software Engineer** and CS Major at the **University of Oklahoma**, returning to **Google** full-time in 2027. Most recently, I completed a **Software Engineering Internship at Google Cloud** (Summer 2026) on the **Data Protection** team, where I worked on enterprise data security UI modernization and telemetry pipelines for the **Google Admin Console**.
 
 I love building systems and products that are used to solve real world problems at scale. I'm particularly interested in **real-time data**, **serverless pipelines**, and **production constraints**.
 
