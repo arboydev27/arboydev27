@@ -1,4 +1,4 @@
-<!-- # Arboy Magomba | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="28" align="center" /> Software Engineering Intern -->
+<!-- # Arboy Magomba | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" width="28" align="center" /> Software Engineer -->
 
 ![Header](./github-header-banner.png)
 
@@ -38,13 +38,13 @@
 
 ## 🚀 About Me
 
-I’m an **Incoming Software Engineering Intern at Google (Summer 2026)**, joining the **Data Protection** team to help build the next generation of the **rule creation engine** in **Google Admin Console** with **AI-driven workflows**.
-Right now (Spring 2026), I’m interning at **Metron Analytics**, redesigning a live sports prediction platform into a **serverless AWS** architecture.
+I’m **Software Engineer** and Computer Science student at the **University of Oklahoma**, returning to **Google** full-time in 2027. Most recently, I completed a **Software Engineering Internship at Google Cloud** (Summer 2026) on the **Data Protection** team, where I worked on enterprise data security UI modernization and telemetry pipelines for the **Google Admin Console**.
+
 I love building systems and products that are used to solve real world problems at scale. I'm particularly interested in **real-time data**, **serverless pipelines**, and **production constraints**.
 
-- 🧠 **Core interests:** Software Engineering in Cloud Infrastructure, Backend systems, Developer Platform and, AI tooling.
-- 🎓 **Education:** BSc in Computer Science at the **University of Oklahoma**.
-- 🏗️ **I care about:** Performant and efficient System designs, end-to-end latency, clean API pipelines, and shipping
+- 🧠 **Core interests:** Product-facing Work, Cloud Infrastructure, Applied AI and Distributed backend systems.
+- 🎓 **Education:** Accelerated B.S. / M.S. in Computer Science at the **University of Oklahoma**.
+- 🏗️ **I care about:** Performant and Scalable Systems designs, Bridging low-latency backend systems with intuitive consumer interfaces, optimistic UI architecture, and shipping at high velocity.
 - 🧰 **Personal hobbies:** F1 Racing (everything racing), Go Karting, Video Games, and building cool stuff.
 
 ---
@@ -74,9 +74,10 @@ I love building systems and products that are used to solve real world problems 
 
 | Company | Role | Stack | Key Achievements |
 | --- | --- | --- | --- |
-| **Metron Analytics LLC** | Software Engineering Intern | Python, FastAPI, AWS (Lambda, EventBridge, DynamoDB, S3, EC2), PostgreSQL (Supabase), Neon | Migrated the live sports prediction backend from **FastAPI/Railway** to an **event-driven AWS serverless stack**, sustaining **99.9% uptime** during game spikes. Split the pipeline into **Batch Training (S3/EC2)** + **Real-Time Inference (Lambda/DynamoDB)**, cutting **inference latency 50%**. |
-| **K20 Educational Research Center** | Software Engineer Intern | TypeScript, React, AdonisJS, PostgreSQL, Docker, Kubernetes (GKE), WebSockets, GitHub Actions, Google Cloud Observability | Built and shipped a platform with **React + AdonisJS + Postgres**, optimizing pooling to reduce **p95 latency 40%**. Deployed **Docker services on GKE** with **WebSocket token-streaming**, reducing **end-to-end response time 60%**. |
-| **Sooner Competitive Robotics** | Software Engineer Intern | Python, C++, Linux, TensorFlow, PyTorch | Built real-time robot control modules in **Python/C++** using concurrent patterns, contributing to a **1st-place finish**. Added telemetry-driven tuning that improved navigation precision by **30%**. |
+| **Google** | Software Engineering Intern | TypeScript, Java, JavaScript, Boq Web, RPC & other Internal Infrastructure | Modernized enterprise data protection workflows and rule creation engines within **Google Admin Console**. Architected telemetry instrumentation and validation pipelines to catch configuration misfires and optimize client-side rendering. |
+| **Metron Analytics LLC** | Software Engineering Intern | Python, FastAPI, AWS (Lambda, EventBridge, DynamoDB, S3, EC2), PostgreSQL (Supabase), Neon | Migrated live sports prediction backend from **FastAPI/Railway** to an **event-driven AWS serverless architecture**, sustaining **99.9% uptime** during live spikes. Split workload into **Batch Training (S3/EC2)** and **Real-Time Inference (Lambda/DynamoDB)**, cutting latency **50%**. |
+| **K20 Educational Research Center** | Software Engineer Intern | TypeScript, React, AdonisJS, PostgreSQL, Docker, Kubernetes (GKE), WebSockets | Developed a full-stack platform using **React + AdonisJS + Postgres**, tuning connection pooling to reduce **p95 latency by 40%**. Deployed containerized services on **GKE** with **WebSocket token-streaming**, cutting end-to-end response times by **60%**. |
+| **Sooner Competitive Robotics** | Software Engineer Intern | Python, C++, Linux, TensorFlow, PyTorch | Built real-time concurrent robot navigation and control modules in **Python/C++**, contributing to a **1st-place finish**. Implemented telemetry-based sensor tuning, raising navigation precision by **30%**. |
 
 ---
 
@@ -84,8 +85,9 @@ I love building systems and products that are used to solve real world problems 
 
 | Project | Role | Stack | Key Achievements |
 | --- | --- | --- | --- |
-| **QuickNews.ai** | Full-Stack Developer | JavaScript, Next.js, AWS Lambda, API Gateway, CloudWatch, AWS Comprehend | Shipped a **Next.js** app with **serverless APIs** for news summaries and sentiment analysis. Used **Provisioned Concurrency** to cut median latency **~2.0s → ~200ms (10x)**. |
-| **Autocomplete Search Engine** | Full-Stack Developer | Java, Spring Boot, TypeScript, Angular, PostgreSQL, Redis | Built a search experience with **prefix lookup + filtering** for role-based usage, handling **100+ concurrent queries**. Added **Redis caching + query profiling** to cut lookup latency by **15%**. |
+| **[Echoes](https://github.com/arboydev27/echoes-ios-app)** | Lead iOS & ML Developer | Swift, SwiftUI, Vision, SFSpeechRecognizer, SwiftData, CoreML, CoreHaptics | Developed an on-device accessibility and journaling iOS app for the **Apple Swift Student Challenge**. Integrated **Vision facial tracking** and real-time **SFSpeech audio transcription** with on-device **CoreML sentiment analysis** for private, zero-latency affective feedback. |
+| **[Pitchly](https://github.com/Pitchly-io)** | Full-Stack Engineer | Next.js, TypeScript, Python, FastAPI, WebSockets, OpenAI API, TailwindCSS | Built an AI-driven mock interview platform that conducts conversational behavioral/technical screeners. Implemented token-streamed audio/text analysis over **WebSockets** with instant scoring heuristics and feedback telemetry. |
+| **[QuickNews.ai](https://github.com/arboydev27/quicknews-ai)** | Full-Stack Developer | JavaScript, Next.js, AWS Lambda, API Gateway, CloudWatch, AWS Comprehend | Shipped a **Next.js** platform powered by **AWS serverless APIs** for dynamic news extraction and sentiment analysis. Configured **Provisioned Concurrency** to slash median execution latency from **~2.0s down to ~200ms (10x reduction)**. |
 
 ---
 
